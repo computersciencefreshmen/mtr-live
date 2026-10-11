@@ -2,6 +2,12 @@
 
 An independent arrival-board website using the official MTR Next Train API. It retains the station-screen interface and runs as a standard Next.js application, with a same-origin server endpoint at `/api/next-train`.
 
+## Production website
+
+[Open MTR Live](https://mtr-live-rosy.vercel.app).
+
+The public production website is deployed on Vercel from this repository's `main` branch. Pushes to `main` trigger production builds and update the same stable URL. The Vercel project uses Next.js, Node.js 24.x, the repository root, and `npm run build`.
+
 ## Features and coverage
 
 - Ocean Park (`SIL-OCP`) is the default resident station. Save another resident station in the browser, search stations, or open a randomly selected station.
