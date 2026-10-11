@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">MTR Live — Your station. Your next train.</title>
+  <desc id="desc">An independent real-time railway arrival board using official MTR data. Ten railway lines and ninety-eight stations.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172128"/><stop offset="1" stop-color="#0d151a"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity=".10"/></linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="24" fill="url(#surface)"/>
+  <g fill="none" stroke-linecap="round" stroke-width="8" opacity=".7">
+    <path d="M850 -20V90q0 45 45 45h160q45 0 45 45v260" stroke="#d54757"/>
+    <path d="M1030 -20v200q0 45 -45 45h-80q-45 0 -45 45v170" stroke="#42a0bd"/>
+    <path d="M1280 60h-115q-45 0 -45 45v230q0 45 -45 45H790" stroke="#b4c23c"/>
+  </g>
+  <g fill="#152027" stroke="#e6eee8" stroke-width="4">
+    <circle cx="895" cy="135" r="11"/><circle cx="1100" cy="225" r="11"/>
+    <circle cx="985" cy="225" r="11"/><circle cx="860" cy="325" r="11"/>
+    <circle cx="1120" cy="180" r="11"/><circle cx="1040" cy="380" r="11"/>
+  </g>
+  <rect x="735" width="545" height="420" rx="24" fill="url(#fade)"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <rect x="64" y="56" width="266" height="34" rx="17" fill="#28383b"/>
+    <circle cx="83" cy="73" r="4" fill="#a8d596"/>
+    <text x="96" y="78" font-size="12" font-weight="700" letter-spacing="1.5" fill="#dbe9df">REAL-TIME RAILWAY ARRIVALS</text>
+    <text x="60" y="189" font-size="84" font-weight="750" letter-spacing="-4" fill="#f6f4ef">MTR Live</text>
+    <text x="64" y="246" font-size="30" font-weight="400" letter-spacing="-.5" fill="#c4cece">Your station. Your next train.</text>
+    <path d="M64 286h607" stroke="#354349"/>
+    <text x="64" y="330" font-size="24" font-weight="650" fill="#f6f4ef">10</text>
+    <text x="101" y="329" font-size="12" letter-spacing="1.5" fill="#a6b7bc">LINES</text>
+    <text x="210" y="330" font-size="24" font-weight="650" fill="#f6f4ef">98</text>
+    <text x="250" y="329" font-size="12" letter-spacing="1.5" fill="#a6b7bc">STATIONS</text>
+    <circle cx="402" cy="322" r="4" fill="#a8d596"/>
+    <text x="416" y="329" font-size="12" letter-spacing="1.5" fill="#a6b7bc">OFFICIAL MTR DATA</text>
+    <text x="64" y="382" font-size="12" fill="#85979e">Independent project · Traditional Chinese &amp; English</text>
+  </g>
+</svg>
