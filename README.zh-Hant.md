@@ -21,6 +21,38 @@
   </p>
 </div>
 
+## 實際畫面
+
+截圖取自正式網站，拍攝日期為 **2026 年 10 月 12 日**（香港時間，`UTC+08:00`）。列車預報及來源時間只代表截圖當刻；最新資訊請[開啟正式網站](https://mtr-live-rosy.vercel.app)。點選任何圖片可查看原始尺寸。
+
+<table>
+  <tr>
+    <td width="70%" align="center" valign="top">
+      <p><strong>桌面 · 海洋公園</strong><br>官方目的地、月台及預報</p>
+      <a href="docs/assets/screenshots/desktop-ocean-park.jpg"><img src="docs/assets/screenshots/desktop-ocean-park.jpg" width="100%" alt="海洋公園桌面到站看板，顯示截圖當刻的官方目的地、月台及列車預報" /></a>
+    </td>
+    <td width="30%" align="center" valign="top">
+      <p><strong>手機 · 選站面板</strong><br>搜尋及路綫篩選</p>
+      <a href="docs/assets/screenshots/mobile-station-chooser.jpg"><img src="docs/assets/screenshots/mobile-station-chooser.jpg" width="220" alt="手機底部選站面板，提供車站搜尋及路綫篩選" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><strong>金鐘 · 第一組</strong><br>荃灣綫＋港島綫</p>
+      <a href="docs/assets/screenshots/admiralty-group-1.jpg"><img src="docs/assets/screenshots/admiralty-group-1.jpg" width="100%" alt="金鐘第一組到站看板，展示荃灣綫與港島綫" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p><strong>金鐘 · 第二組</strong><br>南港島綫＋東鐵綫</p>
+      <a href="docs/assets/screenshots/admiralty-group-2.jpg"><img src="docs/assets/screenshots/admiralty-group-2.jpg" width="100%" alt="金鐘第二組到站看板，展示南港島綫與東鐵綫" /></a>
+    </td>
+  </tr>
+</table>
+
+正式網站開啟自動輪播後，金鐘的兩組看板每 **12 秒**切換。
+
 ---
 
 **10 條路綫 · 98 個車站 · 121 個路綫與車站組合**

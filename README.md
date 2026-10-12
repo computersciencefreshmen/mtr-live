@@ -24,6 +24,38 @@
   </p>
 </div>
 
+## Screenshots
+
+Captured from the production website on **12 October 2026** (Hong Kong, `UTC+08:00`). Train forecasts and source times reflect the capture moment; [open the live website](https://mtr-live-rosy.vercel.app) for current information. Select any image to view it at full size.
+
+<table>
+  <tr>
+    <td width="70%" align="center" valign="top">
+      <p><strong>Desktop · Ocean Park</strong><br>Official destinations, platforms and forecasts</p>
+      <a href="docs/assets/screenshots/desktop-ocean-park.jpg"><img src="docs/assets/screenshots/desktop-ocean-park.jpg" width="100%" alt="Desktop Ocean Park arrival board showing official destinations, platforms and train forecasts at the capture moment" /></a>
+    </td>
+    <td width="30%" align="center" valign="top">
+      <p><strong>Mobile · Station chooser</strong><br>Search and line filters</p>
+      <a href="docs/assets/screenshots/mobile-station-chooser.jpg"><img src="docs/assets/screenshots/mobile-station-chooser.jpg" width="220" alt="Mobile station chooser with station search and line filters in a bottom sheet" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><strong>Admiralty · Group 1</strong><br>Tsuen Wan + Island lines</p>
+      <a href="docs/assets/screenshots/admiralty-group-1.jpg"><img src="docs/assets/screenshots/admiralty-group-1.jpg" width="100%" alt="Admiralty's first display group with Tsuen Wan and Island line boards" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p><strong>Admiralty · Group 2</strong><br>South Island + East Rail lines</p>
+      <a href="docs/assets/screenshots/admiralty-group-2.jpg"><img src="docs/assets/screenshots/admiralty-group-2.jpg" width="100%" alt="Admiralty's second display group with South Island and East Rail line boards" /></a>
+    </td>
+  </tr>
+</table>
+
+Admiralty's two groups rotate every **12 seconds** on the live website when automatic rotation is enabled.
+
 ## At a glance
 
 MTR Live turns the official Next Train feed into a focused station board: destination, platform, forecast time and a live countdown. Choose a station, save a home station, or follow a direct link to a board. When a forecast cannot be verified, the interface explains the problem and hides that line's train rows.
